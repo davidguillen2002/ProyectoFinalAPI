@@ -52,10 +52,6 @@ La aplicación frontend se estructura en los siguientes componentes:
 - Estados y ciclos de vida manejados con hooks `useState` y `useEffect`.
 - Diseño responsivo y adaptativo.
 
-## Diagrama de Actividades
-
-El diagrama de actividades ilustra el flujo de operaciones en la API, desde la recepción de la solicitud hasta la respuesta al cliente.
-
 ## Enlaces
 
 - **Repositorio GitHub:** [ProyectoFinalAPI](https://github.com/davidguillen2002/ProyectoFinalAPI)
